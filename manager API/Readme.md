@@ -1,6 +1,6 @@
-# API de Transporte Público
+# API de Gerenciamento de Catálogo
 
-> API construída como resposta ao desafio Backend AIKO 2021
+> API construída com o intuito de gerenciar os catálogos e as redes sociais do usuário da plataforma OMS da VTEX
 
 ## Tecnologias utilizadas:
  - Nodejs
@@ -9,8 +9,6 @@
  - Typeorm
  - Docker
 
-## Documentação
-Acesse a documentação da API [aqui](https://api-transporte-publico.vercel.app/)
 
 ## Como usar
 
@@ -29,7 +27,3 @@ Agora, execute a aplicação com o comando
 ```
 yarn dev
 ```
-
-
-
-
